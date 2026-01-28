@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Welcome to My Academic Site
 
 Hello! My name is Gary Jia. I am currently an undergraduate student majoring in **Computer Engineering** at **Virginia Tech**.
 
