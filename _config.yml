@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Gary Jia"
+title                    : "Gary Jia | Academic Profile"
 title_separator          : "-"
 name                     : &name "Gary Jia"
 description              : &description "Gary Jia's academic portfolio for ECE 3514"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Gary Jia"
   pronouns         : # example: "she/her"  
-  bio              : "CE student at Virginia Tech"
+  bio              : "Computer Engineering @Virginia Tech | Networking & Cybersecurity"
   location         : "Blacksburg, VA"
   employer         : "Virginia Tech"
   uri              : # URL
